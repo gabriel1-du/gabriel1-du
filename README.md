@@ -3,9 +3,9 @@
 
 ## <img src = "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/silent-hill-2-dog-ending-cutscene.jpg"> 
 
-Mi nombre es Gabriel Duran, soy estudiante de ingeniera en informatica y aca voy publicando mi progreso, proyectos universitarios y personales.
+Mi nombre es Gabriel Duran, soy estudiante de ingeniería en informatica y acá voy publicando mi progreso, proyectos universitarios y personales.
 
-My name is Gabriel Duran, im a informatic enginner student and here y post about my progression, university and personal projects 
+My name is Gabriel Duran, I'm an informatics engineering student and here I post about my progress, university and personal projects.
 
 ## Redes sociales / Social Medias
 

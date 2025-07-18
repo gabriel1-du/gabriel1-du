@@ -1,7 +1,7 @@
 ## Hola a todos / Hi there 👋
 
 
-## <img src = "https://pin.it/2DyBS55u4"> 
+## <img src = "https://tse1.mm.bing.net/th/id/OIP.GtADxC5ucJK8j3EcAbB-YAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"> 
 
 Mi nombre es Gabriel Duran, soy estudiante de ingeniería en informatica y acá voy publicando mi progreso, proyectos universitarios y personales.
 

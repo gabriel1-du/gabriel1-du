@@ -1,7 +1,7 @@
 ## Hola a todos / Hi there 👋
 
 
-## <img src = "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/silent-hill-2-dog-ending-cutscene.jpg"> 
+## <img src = "https://pin.it/2DyBS55u4"> 
 
 Mi nombre es Gabriel Duran, soy estudiante de ingeniería en informatica y acá voy publicando mi progreso, proyectos universitarios y personales.
 

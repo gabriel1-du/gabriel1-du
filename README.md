@@ -9,7 +9,9 @@ My name is Gabriel Duran, I'm an informatics engineering student and here I post
 
 ## Redes sociales / Social Medias
 
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/@GabrielDv-b5m"/> 
+<a href="https://www.youtube.com/@GabrielDv-b5m">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
   ## Lenguajes / Lenguages 
 

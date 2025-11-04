@@ -36,9 +36,6 @@ My name is Gabriel Duran, I'm an informatics engineering student and here you ca
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/>
-</a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot"/>
 </a>
@@ -49,6 +46,5 @@ My name is Gabriel Duran, I'm an informatics engineering student and here you ca
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle"/>
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" title="SQL"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="36" height="36" alt="SQL" title="SQL"/>
 </a>
-                    

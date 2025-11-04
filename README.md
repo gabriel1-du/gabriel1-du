@@ -1,7 +1,7 @@
 ## Hola a todos / Hi there 👋
 
 
-## <img src = "https://tse1.mm.bing.net/th/id/OIP.GtADxC5ucJK8j3EcAbB-YAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"> 
+## <img src = "https://w.wallhaven.cc/full/3k/wallhaven-3k7qjv.jpg"> 
 
 Mi nombre es Gabriel Duran, soy estudiante de ingeniería en informatica y acá podras ver mis proyectos universitarios y personales, me gusta mucho el desarollo backend.
 

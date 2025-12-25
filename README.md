@@ -3,9 +3,9 @@
 
 ## <img src = "https://w.wallhaven.cc/full/3k/wallhaven-3k7qjv.jpg"> 
 
-Mi nombre es Gabriel Duran, soy estudiante de ingeniería en informatica y acá podras ver mis proyectos universitarios y personales, me gusta mucho el desarollo backend.
+Mi nombre es Gabriel Duran, soy estudiante de ingeniería en informatica y acá podras ver mis proyectos universitarios , personales y trabajos para algunos clientes.
 
-My name is Gabriel Duran, I'm an informatics engineering student and here you can see about my university and personal projects, i like a lot backend developer.
+My name is Gabriel Duran, I'm an informatics engineering student and here you can see about my university , personal projects and programs for clients.
 
 ## Redes sociales / Social Medias
 
